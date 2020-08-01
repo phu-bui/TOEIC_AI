@@ -31,14 +31,14 @@
 
     <!-- Sidebar -->
     {%include 'base_menu.html'%}
-
-    <div id="content-wrapper">
+    <div id="page-wrapper">
+    <div id="content-wrapper" class="d-flex flex-column">
       <!-- Main Content -->
       <div class="jumbotron" style="min-height: 660px;">
         <h2 class="text-center">Predict the toeic answer</h2>
         <form action="/" method="GET">
           <div class="form-group" style="background: white;">
-            <p class="question">
+            <p class="question" >
               {% autoescape false %}
               {{row['origin']}}
           {% endautoescape %}
@@ -51,7 +51,7 @@
       </div>
       </div>
 
-
+    </div>
   </div>
 
   
