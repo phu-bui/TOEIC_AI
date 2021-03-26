@@ -173,7 +173,7 @@ python3-openid==3.1.0
 pytorch-pretrained-bert==0.6.2
 pytz==2019.3
 PyWavelets==1.1.1
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==19.0.0
 qrcode==6.1
 qrplatba==0.3.4
