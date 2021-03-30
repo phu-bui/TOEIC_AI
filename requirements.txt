@@ -155,7 +155,7 @@ pycparser==2.20
 PyDispatcher==2.0.5
 PyFunctional==1.2.0
 pygame==1.9.6
-Pygments==2.6.1
+Pygments==2.7.4
 PyHamcrest==2.0.2
 PyJWT==1.7.1
 pyLDAvis==2.1.2
