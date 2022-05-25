@@ -157,7 +157,7 @@ PyFunctional==1.2.0
 pygame==1.9.6
 Pygments==2.6.1
 PyHamcrest==2.0.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyLDAvis==2.1.2
 pyod==0.7.8.2
 pyOpenSSL==19.1.0
